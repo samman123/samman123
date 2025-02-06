@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @samman123
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...c++
-- 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...6053668234
+# Hi there! 👋 I'm Samman
 
-<!---
-samman123/samman123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer with a love for learning and building cool stuff. Here are a few things about me:
+
+- 🌱 I’m currently learning **Machine Learning** and **Data Science**.
+- 🔭 I’m currently working on an exciting new project related to **AI and Automation**.
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/samman123).
+- 💬 Ask me about **Python, JavaScript, and Web Development**.
+- 📫 How to reach me: [Email](mailto:samman123@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
+
+## GitHub Stats
+
+![Samman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samman123&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samman123&layout=compact&theme=radical)
+
+
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
